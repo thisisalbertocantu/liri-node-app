@@ -1,0 +1,1293 @@
+Command executed: concert-this rihanna
+
+RESULT****************
+Command executed: concert-this bob
+
+RESULT****************
+Command executed: concert-this rihanna
+
+RESULT****************
+Command executed: spotify-this-song umbrella
+
+RESULT****************
+Artist: Rihanna
+Song: Umbrella
+Album: Good Girl Gone Bad: Reloaded
+Preview: No preview available.
+------------------------------
+Artist: Rihanna
+Song: Umbrella
+Album: Good Girl Gone Bad
+Preview: No preview available.
+------------------------------
+Artist: Curren$y
+Song: Umbrella Symphony
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/8cba887ae67c1d16328e9195a471c5951a9bb042?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: The Mayries
+Song: Umbrella - Acoustic Version
+Album: Umbrella (Acoustic Version)
+Preview: https://p.scdn.co/mp3-preview/15c441446ff79fd34a6b4868a391ed7cade68d71?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Payback
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/d9fbacbee2a19da50db4967cf6cf1d37001f0f69?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Tears in The Rain
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/1404711738adbfcf5d4ade75ab2d20a13bc961c6?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Sake
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/cf333abfd8253eddc881272bba2d4a5c4a6651cb?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Ghetto Gospel
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/a2cd893c601ae3572da3c4cfa34c6e848e01d350?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Coast Modern
+Song: Tiny Umbrella
+Album: Coast Modern
+Preview: https://p.scdn.co/mp3-preview/335394ac422fee6163a01bdf4273c9d7dd5ba2ee?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Ember Island
+Song: Umbrella
+Album: Umbrella
+Preview: https://p.scdn.co/mp3-preview/2203b528b3c7a80e5e0cbf196a56172e43322445?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: White Panda
+Song: Umbrella - The White Panda Remix
+Album: Umbrella (The White Panda Remix)
+Preview: https://p.scdn.co/mp3-preview/3c1655c33f69cd6f4ea8b3ce563b933d83407b48?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Incubus
+Song: Under My Umbrella
+Album: Morning View
+Preview: https://p.scdn.co/mp3-preview/2b0d19aaed873edf44aa599fc8225d0598114acf?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Margo Guryan
+Song: Under My Umbrella
+Album: 27 Demos
+Preview: https://p.scdn.co/mp3-preview/f0330e93ce988002bfb6b7fc1b08db1e6a57b2fe?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: Umbrella
+Album: Top Hat On Fleek
+Preview: https://p.scdn.co/mp3-preview/9d7365aa087185c6c42fea3728f535b4ac0a6cfe?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Flavors
+Song: umbrella
+Album: snowscape 2 [mini tape]
+Preview: https://p.scdn.co/mp3-preview/af04c3fa47f59fd1b20ae4b7e8b0a00338dd47c6?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lesane
+Song: Pink Umbrella
+Album: Pink Umbrella
+Preview: https://p.scdn.co/mp3-preview/28f0652f7a5a120668b547a93a5866263abc762f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Jinsang
+Song: Umbrella
+Album: Meditation - EP
+Preview: https://p.scdn.co/mp3-preview/dc54e5670a4c68e310d7c4c5240cee2d3cfae0a6?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: All Time Low
+Song: Umbrella
+Album: Umbrella
+Preview: https://p.scdn.co/mp3-preview/ae7d2e12b6a28f031f6d6f56af5781657b2c69a6?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Anita (feat. T.Y.)
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/1351f2770032c67bc6adb50f63a1de6d89986e82?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Payback (Extended Version)
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/657afafc04861580656fdda2b42a86ee5ded5583?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Command executed: movie-this the
+
+RESULT****************
+Title: The Shawshank Redemption
+Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+------------------------------
+Command executed: concert-this rihanna
+
+RESULT****************
+Command executed: do-what-it-says undefined
+
+RESULT****************
+Command executed: spotify-this-song "I Want it That Way"
+
+RESULT****************
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: Millennium
+Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Anthem Lights
+Song: I Want It That Way
+Album: Covers Part IV
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Jess and Gabriel
+Song: I Want It That Way
+Album: Under the Covers, Vol. 3
+Preview: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Tyler and Mark
+Song: I Want It That Way
+Album: Beautiful Dreams
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Mick Jensen
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: 90 Sweet 90s Hits!
+Preview: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: NKOTBSB
+Preview: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: Poodle Hat
+Preview: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Boyce Avenue
+Song: I Want It That Way
+Album: Cover Sessions, Vol. 2
+Preview: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Steel Panther
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: No preview available.
+------------------------------
+Artist: Manuel Costa
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Scary Pockets
+Song: I Want It That Way
+Album: Nu Funk
+Preview: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: I Want It That Way
+Album: Selfies on Kodachrome
+Preview: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Dynamite Boy
+Song: I Want It That Way
+Album: Punk Goes Pop
+Preview: No preview available.
+------------------------------
+Artist: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: The Essential "Weird Al" Yankovic
+Preview: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: NOW That's What I Call 90s Pop
+Preview: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Yshop
+Song: I Want It That Way
+Album: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Love Hits On Piano
+Song: I Want It That Way
+Album: Timeless Love
+Preview: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Command executed: do-what-it-says undefined
+
+RESULT****************
+Command executed: spotify-this-song "Bad Boy"
+
+RESULT****************
+Artist: Red Velvet
+Song: Bad Boy
+Album: The Perfect Red Velvet - The 2nd Album Repackage
+Preview: https://p.scdn.co/mp3-preview/75695ae808ca4fcca34903d567e1c980d5b436ea?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Queen Naija
+Song: Bad Boy
+Album: Queen Naija
+Preview: No preview available.
+------------------------------
+Artist: Red Velvet
+Song: RBB (Really Bad Boy)
+Album: RBB - The 5th Mini Album
+Preview: https://p.scdn.co/mp3-preview/d55e8b0ac6c64baeba03963f7d9e4b9026e1aad0?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Diddy
+Song: Bad Boy For Life
+Album: The Saga Continues...
+Preview: https://p.scdn.co/mp3-preview/2ea53992ae2baea5905296c6e42174fabccfc176?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Florida Georgia Line
+Song: Good Girl, Bad Boy
+Album: Dig Your Roots
+Preview: No preview available.
+------------------------------
+Artist: The Notorious B.I.G.
+Song: Big Poppa
+Album: Bad Boy's 10th Anniversary- The Hits
+Preview: https://p.scdn.co/mp3-preview/7ca5bf638f4ba523d2769c4f63c1edf4988a4d98?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Carter Winter
+Song: Bad Boy
+Album: Some Kind of Fire EP
+Preview: https://p.scdn.co/mp3-preview/b4ab34b30c61472698511057c04f8e9c212dcbfa?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Héctor "El Father"
+Song: El Telefono
+Album: The Bad Boy
+Preview: No preview available.
+------------------------------
+Artist: Craig Mack
+Song: Flava in Ya Ear Remix (feat. Notorious B.I.G., L.L. Cool J, Busta Rhymes, Rampage)
+Album: Bad Boy's 10th Anniversary- The Hits
+Preview: https://p.scdn.co/mp3-preview/c797368e2e1d8cae83495331d7f3facfff3b9430?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Red Velvet
+Song: Bad Boy - (English Version) [Bonus Track]
+Album: Summer Magic - Summer Mini Album
+Preview: https://p.scdn.co/mp3-preview/af3b5cf791c192abc4eae058e74eb8cb93cd3866?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: 112
+Song: Only You-Bad Boy Remix (feat. The Notorious B.I.G. & Mase)
+Album: 112
+Preview: https://p.scdn.co/mp3-preview/a85a9db7fbc67de02286bb94126386bc355ce159?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Danny Gonzalez
+Song: Bad Boy
+Album: Bump This
+Preview: https://p.scdn.co/mp3-preview/a65ac0c22b37e9002a90ef1956ab1c6cdcb78928?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Brantley Gilbert
+Song: If You Want A Bad Boy
+Album: Just As I Am (Platinum Edition)
+Preview: No preview available.
+------------------------------
+Artist: Diddy
+Song: I Need a GirlPt. 2 (feat. Loon, Ginuwine & Mario Winans)
+Album: Bad Boy's 10th Anniversary- The Hits
+Preview: https://p.scdn.co/mp3-preview/701bc88e274b1fa307f0c9e868fc7649e409ccb0?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Diddy
+Song: All About the Benjamins
+Album: Bad Boy's 10th Anniversary- The Hits
+Preview: https://p.scdn.co/mp3-preview/c80819e222d3176951ef0ee8d62de5d2c92eaa84?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Cascada
+Song: Bad Boy
+Album: Everytime We Touch
+Preview: https://p.scdn.co/mp3-preview/2e9af454bed0ce3caac926128960b785223a82e3?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Mario Winans
+Song: I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster
+Album: Bad Boy 20th Anniversary Box Set Edition
+Preview: https://p.scdn.co/mp3-preview/d7c72dafb92eb2e4a6240fb979450213607fc93b?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Diddy
+Song: I'll Be Missing You (feat. 112)
+Album: Bad Boy's 10th Anniversary- The Hits
+Preview: https://p.scdn.co/mp3-preview/3b37724224c064ea4af094c37b7a63aa3c6c86b9?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Marwa Loud
+Song: Bad boy
+Album: Loud
+Preview: https://p.scdn.co/mp3-preview/4fea62fefcdd85a429a0b2ec5871dfbb482f1eb9?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Tungevaag & Raaban
+Song: Bad Boy (feat. Luana Kiara)
+Album: Bad Boy (feat. Luana Kiara)
+Preview: https://p.scdn.co/mp3-preview/973ef988fc90be40fc08f9f03781c8be275e0433?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Command executed: concert-this paramore
+
+RESULT****************
+Command executed: spotify-this-song someone
+
+RESULT****************
+Artist: Lewis Capaldi
+Song: Someone You Loved
+Album: Breach
+Preview: No preview available.
+------------------------------
+Artist: Brett Eldredge
+Song: Love Someone
+Album: Brett Eldredge
+Preview: https://p.scdn.co/mp3-preview/dabff7da6aa1afb6561972f43a81928fef0d48c9?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Adele
+Song: Someone Like You
+Album: 21
+Preview: https://p.scdn.co/mp3-preview/d808ccb1a59c5f21a14cf8da9974558f84366933?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lukas Graham
+Song: Love Someone
+Album: Love Someone
+Preview: https://p.scdn.co/mp3-preview/04cf58ec4116750b72117e8b2331f3b0e3ce884f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Zac Brown Band
+Song: Someone I Used To Know
+Album: Someone I Used To Know
+Preview: https://p.scdn.co/mp3-preview/1ddb5bd78e94b39d1b2409603f10fb60f34417bc?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Hozier
+Song: Someone New
+Album: Hozier (Expanded Edition)
+Preview: https://p.scdn.co/mp3-preview/3695e7f2b01c4b86143d938e54a4f08fdad09940?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: James TW
+Song: When You Love Someone
+Album: First Impressions
+Preview: No preview available.
+------------------------------
+Artist: BANNERS
+Song: Someone To You
+Album: Empires On Fire
+Preview: No preview available.
+------------------------------
+Artist: Lukas Graham
+Song: Love Someone
+Album: 3 (The Purple Album)
+Preview: https://p.scdn.co/mp3-preview/b95607fe91dde7c1755cf4acb06f3ec4d300b347?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: A R I Z O N A
+Song: Find Someone
+Album: Find Someone
+Preview: https://p.scdn.co/mp3-preview/e795f59478d11d9920202b0b8d8bef45eb8cf911?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Matchbox Twenty
+Song: Push
+Album: Yourself Or Someone Like You
+Preview: https://p.scdn.co/mp3-preview/a6c10bb10f1a58420584e5f231c742798233736d?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Matchbox Twenty
+Song: 3AM
+Album: Yourself Or Someone Like You
+Preview: https://p.scdn.co/mp3-preview/cb68c9ae8925bb3fc45544e5f21de17df18b957d?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Alec Benjamin
+Song: If I Killed Someone For You
+Album: Narrated For You
+Preview: https://p.scdn.co/mp3-preview/1f9288477902530c38194e2c90a5bcef84bb6d13?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: The 1975
+Song: Loving Someone
+Album: I like it when you sleep, for you are so beautiful yet so unaware of it
+Preview: No preview available.
+------------------------------
+Artist: Travis Tritt
+Song: Here's a Quarter (Call Someone Who Cares)
+Album: Greatest Hits - From The Beginning
+Preview: https://p.scdn.co/mp3-preview/661c207c919b5d150450579aa7a54f7a2d451941?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Sara Bareilles
+Song: Someone Who Loves Me
+Album: Amidst the Chaos
+Preview: https://p.scdn.co/mp3-preview/090217592e5cb1da6a1a58ad4c58e103ae610610?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: VHS Collection
+Song: So I Met Someone
+Album: So I Met Someone
+Preview: https://p.scdn.co/mp3-preview/bd80b48369eadcf9e044ccb90eb5a626fb76bc42?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: LCD Soundsystem
+Song: Someone Great
+Album: Sound Of Silver
+Preview: https://p.scdn.co/mp3-preview/8cd01b585be5903f2a9b5740b59ecb3bd9333272?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Astrid S
+Song: Someone New
+Album: Someone New
+Preview: No preview available.
+------------------------------
+Artist: Vancouver Sleep Clinic
+Song: Someone To Stay
+Album: Someone To Stay
+Preview: https://p.scdn.co/mp3-preview/8f7df6cdb630d81d616828e8e4240e4665ef337b?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Command executed: concert-this paramore
+
+RESULT****************
+Command executed: movie-this the
+
+RESULT****************
+Title: The Shawshank Redemption
+Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+------------------------------
+Command executed: movie-this the
+
+RESULT****************
+Title: The Shawshank Redemption
+Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+------------------------------
+Command executed: concert-this paramore
+
+RESULT****************
+Command executed: concert-this marron
+
+RESULT****************
+Command executed: concert-this maroong
+
+RESULT****************
+Command executed: concert-this maroon
+
+RESULT****************
+Command executed: concert-this melanie
+
+RESULT****************
+Search: melanie
+Name: Brew Skies Music Festival 2019
+Location: Hannibal, United States
+Date: 06-07-2019
+------------------------------
+Search: melanie
+Name: Daryl's House Club
+Location: Pawling, United States
+Date: 07-26-2019
+------------------------------
+Search: melanie
+Name: Batavia Downs Gaming
+Location: Batavia, United States
+Date: 07-20-2019
+------------------------------
+Search: melanie
+Name: Space Coast Harley-Davidson
+Location: Palm Bay, United States
+Date: 08-18-2019
+------------------------------
+Search: melanie
+Name: The Pour House at New Hope Winery
+Location: New Hope, United States
+Date: 08-24-2019
+------------------------------
+Search: melanie
+Name: The Suffolk Theater
+Location: Riverhead, United States
+Date: 08-25-2019
+------------------------------
+Search: melanie
+Name: Musikfest Café
+Location: Bethlehem, United States
+Date: 10-03-2019
+------------------------------
+Search: melanie
+Name: Pollak Theater
+Location: West Long Branch, United States
+Date: 10-04-2019
+------------------------------
+Search: melanie
+Name: Green Wood Coffee House Series
+Location: Ann Arbor, United States
+Date: 10-18-2019
+------------------------------
+Search: melanie
+Name: Michael Pryor Productions
+Location: Waynesboro, United States
+Date: 06-15-2019
+------------------------------
+Search: melanie
+Name: Caffe Lena
+Location: Saratoga Springs, United States
+Date: 07-28-2019
+------------------------------
+Search: melanie
+Name: Musis Arnhem
+Location: Arnhem, Netherlands
+Date: 12-08-2019
+------------------------------
+Search: melanie
+Name: TivoliVredenburg
+Location: Utrecht, Netherlands
+Date: 12-10-2019
+------------------------------
+Search: melanie
+Name: Patronaat
+Location: Haarlem, Netherlands
+Date: 12-11-2019
+------------------------------
+Search: melanie
+Name: Saloon Studios & Old West Town
+Location: West Jefferson, United States
+Date: 08-09-2019
+------------------------------
+Search: melanie
+Name: Theater De Lawei
+Location: Drachten, Netherlands
+Date: 12-04-2019
+------------------------------
+Search: melanie
+Name: De Doelen
+Location: Rotterdam, Netherlands
+Date: 12-14-2019
+------------------------------
+Search: melanie
+Name: Markant
+Location: Uden, Netherlands
+Date: 12-12-2019
+------------------------------
+Search: melanie
+Name: Poppodium Hedon
+Location: Zwolle, Netherlands
+Date: 12-15-2019
+------------------------------
+Search: melanie
+Name: Cultuurcentrum Achterolmen
+Location: Maaseik, Belgium
+Date: 12-06-2019
+------------------------------
+Command executed: concert-this the
+
+RESULT****************
+Search: the
+Name: [ips]
+Location: Berlin-altglienicke, Germany
+Date: 06-10-2019
+------------------------------
+Search: the
+Name: Tipitina's Uptown
+Location: New Orleans, United States
+Date: 07-05-2019
+------------------------------
+Search: the
+Name: The Cutting Room
+Location: New York, United States
+Date: 07-27-2019
+------------------------------
+Command executed: sportify-this-song rolling
+
+RESULT****************
+Command executed: spotify-this-song rolling
+
+RESULT****************
+Artist: Wiz Khalifa
+Song: Hopeless Romantic (feat. Swae Lee)
+Album: Rolling Papers 2
+Preview: https://p.scdn.co/mp3-preview/9759d95dea3a538299f9b85f93fc3106b2923bdd?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Adele
+Song: Rolling in the Deep
+Album: 21
+Preview: https://p.scdn.co/mp3-preview/8c174ce25d94b502dfe31f0da8a070a32fb263db?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lenin Ramírez
+Song: Rolling One
+Album: Bendecido
+Preview: https://p.scdn.co/mp3-preview/61b5a0e6b05e23f9919283ec235354a6133011c5?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Ocean Waves For Sleep
+Song: Rolling Ocean Waves
+Album: Waves of the Sea, Ocean and Lakes
+Preview: https://p.scdn.co/mp3-preview/a642fbcb01f61ab8782ec4e749b109855dec1d71?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Upchurch
+Song: Rolling Stoned
+Album: Bad Mutha Fucka
+Preview: https://p.scdn.co/mp3-preview/bc2791f3ea67915ed62525ece7b860fc57b311f2?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Wiz Khalifa
+Song: Fr Fr (feat. Lil Skies)
+Album: Rolling Papers 2
+Preview: https://p.scdn.co/mp3-preview/5761e4ab6a99b8940407ef793957dc448892ae2d?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: YNW Melly
+Song: Rolling Loud
+Album: We All Shine
+Preview: https://p.scdn.co/mp3-preview/2e35f4196611c54b4c875e066c01c9156f8ff98f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Wiz Khalifa
+Song: Black and Yellow
+Album: Rolling Papers
+Preview: https://p.scdn.co/mp3-preview/743b231f046440a6076fef4bb670f133d05651fc?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: The Rolling Stones
+Song: Paint It, Black
+Album: Aftermath
+Preview: No preview available.
+------------------------------
+Artist: The Rolling Stones
+Song: Beast Of Burden - Remastered
+Album: Some Girls
+Preview: No preview available.
+------------------------------
+Artist: The Rolling Stones
+Song: Gimme Shelter
+Album: Let It Bleed
+Preview: No preview available.
+------------------------------
+Artist: Bob Dylan
+Song: Like a Rolling Stone
+Album: Highway 61 Revisited
+Preview: https://p.scdn.co/mp3-preview/f0eec1a1dbd31bf51cf323d2981535ec4fc5a568?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lauren Daigle
+Song: Still Rolling Stones
+Album: Look Up Child
+Preview: https://p.scdn.co/mp3-preview/01b87f6cc792a9269cf13926dd7a800b1e006625?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Nature Sounds
+Song: Calm Rolling Thunder and Soothing Rain
+Album: Thunderstorms - Sounds of Nature
+Preview: https://p.scdn.co/mp3-preview/a45a8b2193614a41dd3163b52291bef054734f9e?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: The Rolling Stones
+Song: Start Me Up - Remastered
+Album: Tattoo You (2009 Re-Mastered)
+Preview: No preview available.
+------------------------------
+Artist: The Rolling Stones
+Song: (I Can't Get No) Satisfaction - Mono Version
+Album: Out Of Our Heads
+Preview: No preview available.
+------------------------------
+Artist: The Rolling Stones
+Song: Sympathy For The Devil - 50th Anniversary Edition
+Album: Beggars Banquet (50th Anniversary Edition)
+Preview: No preview available.
+------------------------------
+Artist: Wiz Khalifa
+Song: No Sleep
+Album: Rolling Papers
+Preview: https://p.scdn.co/mp3-preview/110cd9aa6054a1488d5e931cacac123f68d1a4f3?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Sleepdealer
+Song: Rolling Papers
+Album: Yerba
+Preview: https://p.scdn.co/mp3-preview/ef0a3ae48476f9780951f6206e24ab2f5f6bc839?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Wiz Khalifa
+Song: Real Rich (feat. Gucci Mane)
+Album: Rolling Papers 2
+Preview: https://p.scdn.co/mp3-preview/68d74fd49a1a56bff8641ba917c1ffee770b77bb?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Command executed: spotify-this-song rolling
+
+RESULT****************
+Artist: Wiz Khalifa
+Song: Hopeless Romantic (feat. Swae Lee)
+Album: Rolling Papers 2
+Preview: https://p.scdn.co/mp3-preview/9759d95dea3a538299f9b85f93fc3106b2923bdd?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Adele
+Song: Rolling in the Deep
+Album: 21
+Preview: https://p.scdn.co/mp3-preview/8c174ce25d94b502dfe31f0da8a070a32fb263db?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Ocean Waves For Sleep
+Song: Rolling Ocean Waves
+Album: Waves of the Sea, Ocean and Lakes
+Preview: https://p.scdn.co/mp3-preview/a642fbcb01f61ab8782ec4e749b109855dec1d71?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Upchurch
+Song: Rolling Stoned
+Album: Bad Mutha Fucka
+Preview: https://p.scdn.co/mp3-preview/bc2791f3ea67915ed62525ece7b860fc57b311f2?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Wiz Khalifa
+Song: Fr Fr (feat. Lil Skies)
+Album: Rolling Papers 2
+Preview: https://p.scdn.co/mp3-preview/5761e4ab6a99b8940407ef793957dc448892ae2d?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: YNW Melly
+Song: Rolling Loud
+Album: We All Shine
+Preview: https://p.scdn.co/mp3-preview/2e35f4196611c54b4c875e066c01c9156f8ff98f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Wiz Khalifa
+Song: Black and Yellow
+Album: Rolling Papers
+Preview: https://p.scdn.co/mp3-preview/743b231f046440a6076fef4bb670f133d05651fc?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: The Rolling Stones
+Song: Paint It, Black
+Album: Aftermath
+Preview: No preview available.
+------------------------------
+Artist: The Rolling Stones
+Song: Beast Of Burden - Remastered
+Album: Some Girls
+Preview: No preview available.
+------------------------------
+Artist: Lenin Ramírez
+Song: Rolling One
+Album: Bendecido
+Preview: https://p.scdn.co/mp3-preview/61b5a0e6b05e23f9919283ec235354a6133011c5?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Bob Dylan
+Song: Like a Rolling Stone
+Album: Highway 61 Revisited
+Preview: https://p.scdn.co/mp3-preview/f0eec1a1dbd31bf51cf323d2981535ec4fc5a568?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lauren Daigle
+Song: Still Rolling Stones
+Album: Look Up Child
+Preview: https://p.scdn.co/mp3-preview/01b87f6cc792a9269cf13926dd7a800b1e006625?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Nature Sounds
+Song: Calm Rolling Thunder and Soothing Rain
+Album: Thunderstorms - Sounds of Nature
+Preview: https://p.scdn.co/mp3-preview/a45a8b2193614a41dd3163b52291bef054734f9e?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: The Rolling Stones
+Song: Start Me Up - Remastered
+Album: Tattoo You (2009 Re-Mastered)
+Preview: No preview available.
+------------------------------
+Artist: The Rolling Stones
+Song: (I Can't Get No) Satisfaction - Mono Version
+Album: Out Of Our Heads
+Preview: No preview available.
+------------------------------
+Artist: The Rolling Stones
+Song: Sympathy For The Devil - 50th Anniversary Edition
+Album: Beggars Banquet (50th Anniversary Edition)
+Preview: No preview available.
+------------------------------
+Artist: The Rolling Stones
+Song: Gimme Shelter
+Album: Let It Bleed
+Preview: No preview available.
+------------------------------
+Artist: Wiz Khalifa
+Song: No Sleep
+Album: Rolling Papers
+Preview: https://p.scdn.co/mp3-preview/110cd9aa6054a1488d5e931cacac123f68d1a4f3?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Sleepdealer
+Song: Rolling Papers
+Album: Yerba
+Preview: https://p.scdn.co/mp3-preview/ef0a3ae48476f9780951f6206e24ab2f5f6bc839?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Wiz Khalifa
+Song: Real Rich (feat. Gucci Mane)
+Album: Rolling Papers 2
+Preview: https://p.scdn.co/mp3-preview/68d74fd49a1a56bff8641ba917c1ffee770b77bb?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Command executed: movie-this the
+
+RESULT****************
+Title: The Shawshank Redemption
+Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+------------------------------
+Command executed: movie-this the
+
+RESULT****************
+Title: The Shawshank Redemption
+Year: 1994
+IMDB Rating: 9.3
+Rotten Tomatoes Rating: 91%
+Country: USA
+Language: English
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+------------------------------
+Command executed: do-what-it-says undefined
+
+******YOUR RESULTS ARE:RESULT******
+Command executed: spotify-this-song "Bad Boy"
+movie-this
+
+******YOUR RESULTS ARE:RESULT******
+Command executed: do-what-it-says undefined
+
+******YOUR RESULTS ARE:RESULT******
+Command executed: spotify-this-song "Bad Boy"
+
+******YOUR RESULTS ARE:RESULT******
+Artist: Red Velvet
+Song: Bad Boy
+Album: The Perfect Red Velvet - The 2nd Album Repackage
+Preview: https://p.scdn.co/mp3-preview/75695ae808ca4fcca34903d567e1c980d5b436ea?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Red Velvet
+Song: RBB (Really Bad Boy)
+Album: RBB - The 5th Mini Album
+Preview: https://p.scdn.co/mp3-preview/d55e8b0ac6c64baeba03963f7d9e4b9026e1aad0?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Diddy
+Song: Bad Boy For Life
+Album: The Saga Continues...
+Preview: https://p.scdn.co/mp3-preview/2ea53992ae2baea5905296c6e42174fabccfc176?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Florida Georgia Line
+Song: Good Girl, Bad Boy
+Album: Dig Your Roots
+Preview: No preview available.
+------------------------------
+Artist: Mario Winans
+Song: I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster
+Album: Bad Boy 20th Anniversary Box Set Edition
+Preview: https://p.scdn.co/mp3-preview/d7c72dafb92eb2e4a6240fb979450213607fc93b?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: The Notorious B.I.G.
+Song: Big Poppa
+Album: Bad Boy's 10th Anniversary- The Hits
+Preview: https://p.scdn.co/mp3-preview/7ca5bf638f4ba523d2769c4f63c1edf4988a4d98?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Diddy
+Song: I'll Be Missing You (feat. 112)
+Album: Bad Boy's 10th Anniversary- The Hits
+Preview: https://p.scdn.co/mp3-preview/3b37724224c064ea4af094c37b7a63aa3c6c86b9?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Diddy
+Song: I Need a GirlPt. 2 (feat. Loon, Ginuwine & Mario Winans)
+Album: Bad Boy's 10th Anniversary- The Hits
+Preview: https://p.scdn.co/mp3-preview/701bc88e274b1fa307f0c9e868fc7649e409ccb0?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Carter Winter
+Song: Bad Boy
+Album: Some Kind of Fire EP
+Preview: https://p.scdn.co/mp3-preview/b4ab34b30c61472698511057c04f8e9c212dcbfa?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Héctor "El Father"
+Song: El Telefono
+Album: The Bad Boy
+Preview: No preview available.
+------------------------------
+Artist: Craig Mack
+Song: Flava in Ya Ear Remix (feat. Notorious B.I.G., L.L. Cool J, Busta Rhymes, Rampage)
+Album: Bad Boy's 10th Anniversary- The Hits
+Preview: https://p.scdn.co/mp3-preview/c797368e2e1d8cae83495331d7f3facfff3b9430?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Red Velvet
+Song: Bad Boy - (English Version) [Bonus Track]
+Album: Summer Magic - Summer Mini Album
+Preview: https://p.scdn.co/mp3-preview/af3b5cf791c192abc4eae058e74eb8cb93cd3866?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Queen Naija
+Song: Bad Boy
+Album: Queen Naija
+Preview: No preview available.
+------------------------------
+Artist: 112
+Song: Only You-Bad Boy Remix (feat. The Notorious B.I.G. & Mase)
+Album: 112
+Preview: https://p.scdn.co/mp3-preview/a85a9db7fbc67de02286bb94126386bc355ce159?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Danny Gonzalez
+Song: Bad Boy
+Album: Bump This
+Preview: https://p.scdn.co/mp3-preview/a65ac0c22b37e9002a90ef1956ab1c6cdcb78928?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Brantley Gilbert
+Song: If You Want A Bad Boy
+Album: Just As I Am (Platinum Edition)
+Preview: No preview available.
+------------------------------
+Artist: Diddy
+Song: All About the Benjamins
+Album: Bad Boy's 10th Anniversary- The Hits
+Preview: https://p.scdn.co/mp3-preview/c80819e222d3176951ef0ee8d62de5d2c92eaa84?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Cascada
+Song: Bad Boy
+Album: Everytime We Touch
+Preview: https://p.scdn.co/mp3-preview/2e9af454bed0ce3caac926128960b785223a82e3?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Tungevaag & Raaban
+Song: Bad Boy (feat. Luana Kiara)
+Album: Bad Boy (feat. Luana Kiara)
+Preview: https://p.scdn.co/mp3-preview/973ef988fc90be40fc08f9f03781c8be275e0433?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Marwa Loud
+Song: Bad boy
+Album: Loud
+Preview: https://p.scdn.co/mp3-preview/4fea62fefcdd85a429a0b2ec5871dfbb482f1eb9?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Command executed: concert-this The
+
+******YOUR RESULTS ARE:RESULT******
+Command executed: concert-this the
+
+******YOUR RESULTS ARE:RESULT******
+Search: the
+Name: [ips]
+Location: Berlin-altglienicke, Germany
+Date: 06-10-2019
+------------------------------
+Search: the
+Name: Tipitina's Uptown
+Location: New Orleans, United States
+Date: 07-05-2019
+------------------------------
+Search: the
+Name: The Cutting Room
+Location: New York, United States
+Date: 07-27-2019
+------------------------------
+Command executed: spotify-this-song despacito
+
+******YOUR RESULTS ARE:RESULT******
+Artist: Luis Fonsi
+Song: Despacito - Remix
+Album: Despacito Feat. Justin Bieber (Remix)
+Preview: No preview available.
+------------------------------
+Artist: Luis Fonsi
+Song: Despacito
+Album: VIDA
+Preview: No preview available.
+------------------------------
+Artist: Luis Fonsi
+Song: Despacito
+Album: Shut Up Lets Dance
+Preview: No preview available.
+------------------------------
+Artist: JID
+Song: Despacito Too
+Album: DiCaprio 2
+Preview: No preview available.
+------------------------------
+Artist: Madilyn Bailey
+Song: Despacito
+Album: Despacito
+Preview: https://p.scdn.co/mp3-preview/076f200df2b0f8b361ca1e6c268dba878ad998ce?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Ramon Ayala
+Song: Despacito
+Album: Despacito
+Preview: https://p.scdn.co/mp3-preview/697d6cda3fb5ad7946358b71ae50a86c2a32ca14?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Tom Powers
+Song: Despacito
+Album: The Beauty Of Piano
+Preview: https://p.scdn.co/mp3-preview/af9c3d2bfac77065ec06c5f6cd22be49764ed5ef?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: 2CELLOS
+Song: Despacito
+Album: Let There Be Cello
+Preview: https://p.scdn.co/mp3-preview/6f8b5e3126c1185964e824ae6149eb1d192b6ab2?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Luis Fonsi
+Song: Despacito - Remix
+Album: VIDA
+Preview: No preview available.
+------------------------------
+Artist: Luis Fonsi
+Song: Despacito - Major Lazer & MOSKA Remix
+Album: Despacito (Major Lazer & MOSKA Remix)
+Preview: No preview available.
+------------------------------
+Artist: Jesse & Joy
+Song: Quiéreme Despacito
+Album: Un Besito Más
+Preview: https://p.scdn.co/mp3-preview/72455f5fc2f054b876ba815cc846edbbe1bdd3c1?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Pentatonix
+Song: Despacito x Shape Of You
+Album: PTX Presents: Top Pop, Vol. I
+Preview: https://p.scdn.co/mp3-preview/442d8fce3c6f11c4b947dbf736020896b7d871c0?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Peter Bence
+Song: Despacito
+Album: Despacito
+Preview: https://p.scdn.co/mp3-preview/a2e4999556bf3dbe8869486fa8d16d8856904352?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Vitamin String Quartet
+Song: Despacito
+Album: VSQ Performs the Hits of 2017 Vol. 2
+Preview: https://p.scdn.co/mp3-preview/405f97d76a9507975b42cf608bd0c179024aa49f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Luis Fonsi
+Song: Despacito - Versión Salsa
+Album: Despacito (Versión Salsa)
+Preview: No preview available.
+------------------------------
+Artist: Daniel Jang
+Song: Despacito
+Album: Despacito
+Preview: https://p.scdn.co/mp3-preview/952145faf79938853c768782a7391ba464bcf074?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Boyce Avenue
+Song: Despacito
+Album: Cover Sessions, Vol. 4
+Preview: https://p.scdn.co/mp3-preview/b7c2f67847678ee53a5191043af60f45f3016016?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Conor Maynard
+Song: Despacito
+Album: Despacito Season
+Preview: https://p.scdn.co/mp3-preview/ed6b719751c936fbadb584a9a2cfaffe0d512325?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Pedro Infante
+Song: Despacito, Muy Despacito
+Album: Los Reyes de La Música Ranchera Volume 1
+Preview: https://p.scdn.co/mp3-preview/6d897806ca1e0888444faa4310f58c9359334fc6?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Tyler and Mark
+Song: Despacito
+Album: Beautiful Dreams
+Preview: https://p.scdn.co/mp3-preview/18175739e1c5775d95f570b9cd8902cccb143183?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Command executed: movie-this Star
+
+******YOUR RESULTS ARE:RESULT******
+Title: Star
+Year: 2001
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: Not available.
+Country: USA
+Language: English
+Plot: The Driver now carries an arrogant rock star who is visiting a major city (not Pittsburgh as earlier believed). Played by Madonna, this title character wants to get away from her bodyguards...
+Actors: Clive Owen, Michael Beattie, Toru Tanaka Jr., DTeflon
+------------------------------
+Command executed: spotify-this-song Umbrella
+
+------YOUR RESULTS ARE
+Artist: Rihanna
+Song: Umbrella
+Album: Good Girl Gone Bad: Reloaded
+Preview: No preview available.
+------------------------------
+Artist: Rihanna
+Song: Umbrella
+Album: Good Girl Gone Bad
+Preview: No preview available.
+------------------------------
+Artist: The Mayries
+Song: Umbrella - Acoustic Version
+Album: Umbrella (Acoustic Version)
+Preview: https://p.scdn.co/mp3-preview/15c441446ff79fd34a6b4868a391ed7cade68d71?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Ghetto Gospel
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/a2cd893c601ae3572da3c4cfa34c6e848e01d350?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Tears in The Rain
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/1404711738adbfcf5d4ade75ab2d20a13bc961c6?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Payback
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/d9fbacbee2a19da50db4967cf6cf1d37001f0f69?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Anita (feat. T.Y.)
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/1351f2770032c67bc6adb50f63a1de6d89986e82?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Sake
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/cf333abfd8253eddc881272bba2d4a5c4a6651cb?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Payback (Extended Version)
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/657afafc04861580656fdda2b42a86ee5ded5583?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: All Time Low
+Song: Umbrella
+Album: Umbrella
+Preview: https://p.scdn.co/mp3-preview/ae7d2e12b6a28f031f6d6f56af5781657b2c69a6?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Coast Modern
+Song: Tiny Umbrella
+Album: Coast Modern
+Preview: https://p.scdn.co/mp3-preview/335394ac422fee6163a01bdf4273c9d7dd5ba2ee?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Curren$y
+Song: Umbrella Symphony
+Album: Umbrella Symphony
+Preview: https://p.scdn.co/mp3-preview/8cba887ae67c1d16328e9195a471c5951a9bb042?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: White Panda
+Song: Umbrella - The White Panda Remix
+Album: Umbrella (The White Panda Remix)
+Preview: https://p.scdn.co/mp3-preview/3c1655c33f69cd6f4ea8b3ce563b933d83407b48?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Ember Island
+Song: Umbrella
+Album: Umbrella
+Preview: https://p.scdn.co/mp3-preview/2203b528b3c7a80e5e0cbf196a56172e43322445?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Incubus
+Song: Under My Umbrella
+Album: Morning View
+Preview: https://p.scdn.co/mp3-preview/2b0d19aaed873edf44aa599fc8225d0598114acf?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Margo Guryan
+Song: Under My Umbrella
+Album: 27 Demos
+Preview: https://p.scdn.co/mp3-preview/f0330e93ce988002bfb6b7fc1b08db1e6a57b2fe?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Scott Bradlee's Postmodern Jukebox
+Song: Umbrella
+Album: Top Hat On Fleek
+Preview: https://p.scdn.co/mp3-preview/9d7365aa087185c6c42fea3728f535b4ac0a6cfe?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Flavors
+Song: umbrella
+Album: snowscape 2 [mini tape]
+Preview: https://p.scdn.co/mp3-preview/af04c3fa47f59fd1b20ae4b7e8b0a00338dd47c6?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lesane
+Song: Pink Umbrella
+Album: Pink Umbrella
+Preview: https://p.scdn.co/mp3-preview/28f0652f7a5a120668b547a93a5866263abc762f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Jinsang
+Song: Umbrella
+Album: Meditation - EP
+Preview: https://p.scdn.co/mp3-preview/dc54e5670a4c68e310d7c4c5240cee2d3cfae0a6?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Command executed: spotify-this-song radio
+
+------YOUR RESULTS ARE
+Artist: Lady Gaga
+Song: Shallow - Radio Edit
+Album: A Star Is Born Soundtrack (Without Dialogue)
+Preview: No preview available.
+------------------------------
+Artist: ZAYN
+Song: Dusk Till Dawn - Radio Edit
+Album: Dusk Till Dawn (Radio Edit)
+Preview: https://p.scdn.co/mp3-preview/e2e03acfd38d7cfa2baa924e0e9c7a80f9b49137?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Twenty One Pilots
+Song: Car Radio
+Album: Vessel
+Preview: https://p.scdn.co/mp3-preview/ea3ed2e51bccacc2791af5686520e8f9abf0ef65?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Taylor Swift
+Song: Delicate
+Album: reputation (Big Machine Radio Release Special)
+Preview: No preview available.
+------------------------------
+Artist: Avicii
+Song: Levels - Radio Edit
+Album: 20 #1's: Workout
+Preview: No preview available.
+------------------------------
+Artist: Panic! At The Disco
+Song: Nine In The Afternoon - Radio Mix
+Album: Pretty. Odd.
+Preview: https://p.scdn.co/mp3-preview/7d3b616ae5cd1f1c5ccc2adb292feff42cecb0f4?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Brett Young
+Song: In Case You Didn't Know
+Album: Brett Young (Big Machine Radio Release Special)
+Preview: No preview available.
+------------------------------
+Artist: Swedish House Mafia
+Song: Don't You Worry Child - Radio Edit
+Album: Don't You Worry Child
+Preview: No preview available.
+------------------------------
+Artist: Calvin Harris
+Song: Feel So Close - Radio Edit
+Album: 18 Months
+Preview: https://p.scdn.co/mp3-preview/1bb301a77b9116d35a5dfba254d7756482f565dc?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Queen
+Song: Radio Ga Ga - Remastered
+Album: The Works (Deluxe Remastered Version)
+Preview: No preview available.
+------------------------------
+Artist: Maroon 5
+Song: She Will Be Loved - Radio Mix
+Album: Songs About Jane: 10th Anniversary Edition
+Preview: No preview available.
+------------------------------
+Artist: Rage Against The Machine
+Song: Guerrilla Radio
+Album: The Battle Of Los Angeles
+Preview: https://p.scdn.co/mp3-preview/47af10b767feae2666501d56ea4dcce187f9aa7b?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: The Buggles
+Song: Video Killed The Radio Star
+Album: The Age Of Plastic
+Preview: No preview available.
+------------------------------
+Artist: Queen
+Song: Radio Ga Ga - Live Aid
+Album: Bohemian Rhapsody (The Original Soundtrack)
+Preview: No preview available.
+------------------------------
+Artist: Taylor Swift
+Song: Look What You Made Me Do
+Album: reputation (Big Machine Radio Release Special)
+Preview: No preview available.
+------------------------------
+Artist: Timmy Trumpet
+Song: Freaks - Radio Edit
+Album: Freaks
+Preview: No preview available.
+------------------------------
+Artist: Mr. Probz
+Song: Waves - Robin Schulz Radio Edit
+Album: Waves (Robin Schulz Radio Edit)
+Preview: https://p.scdn.co/mp3-preview/6e90d293738b3ddd61258f50c9621fa3fa489dbe?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: J-Kwon
+Song: Tipsy - Radio Mix
+Album: Tipsy
+Preview: https://p.scdn.co/mp3-preview/567c97a8094481bcf5d94e80ba9f1b974502f8a8?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Amy Winehouse
+Song: Valerie - Live At BBC Radio 1 Live Lounge, London / 2007
+Album: Back To Black: B-Sides
+Preview: No preview available.
+------------------------------
+Artist: Taylor Swift
+Song: Blank Space
+Album: 1989 (Big Machine Radio Release Special)
+Preview: No preview available.
+------------------------------
