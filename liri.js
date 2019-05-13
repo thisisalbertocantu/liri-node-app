@@ -20,31 +20,6 @@ var argument2 = process.argv[3];
 /*	      CODE FUNCTIONALITY
 /*---------------------------------------------------*/
 
-chooseCommand(argument1, argument2);
-
-function chooseCommand(first, valueToDisplay) {
-    var result = first + " " + valueToDisplay + "\n";
-    appendFile("log.txt", "Result: " + result + "\n------YOUR RESULTS ARE\n");
-    switch (first) {
-        case "concert-this":
-            concertInformation(valueToDisplay);
-            break;
-        case "spotify-this-song":
-            var song = process.argv.slice(3).join(" ").toLowerCase();
-            if (song === "") {
-                song === "Umbrella";
-            }
-            spotifyThisSong(valueToDisplay);
-            break;
-        case "movie-this":
-            movie(valueToDisplay);
-            break;
-        case "do-what-it-says":
-            readFile("random.txt");
-            break;
-    }
-}
-
 function concertInformation(artist) {
     axios.get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
         .then(function (response) {
@@ -193,3 +168,33 @@ function appendFile(filename, textToAppend) {
         }
     });
 }
+
+/*---------------------------------------------------*/
+/*	      CHOOSE BETWEEN DIFFERENT FUNCTIONS
+/*---------------------------------------------------*/
+
+function chooseCommand(first, valueToDisplay) {
+    var result = first + " " + valueToDisplay + "\n";
+    appendFile("log.txt", "Result: " + result + "\n------YOUR RESULTS ARE\n");
+    switch (first) {
+        case "concert-this":
+            concertInformation(valueToDisplay);
+            break;
+        case "spotify-this-song":
+            var song = process.argv.slice(3).join(" ").toLowerCase();
+            if (song === "") {
+                song === "Umbrella";
+            }
+            spotifyThisSong(valueToDisplay);
+            break;
+        case "movie-this":
+            movie(valueToDisplay);
+            break;
+        case "do-what-it-says":
+            readFile("random.txt");
+            break;
+    }
+}
+
+chooseCommand(argument1, argument2);
+

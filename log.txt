@@ -1291,3 +1291,342 @@ Song: Blank Space
 Album: 1989 (Big Machine Radio Release Special)
 Preview: No preview available.
 ------------------------------
+Result: concert-this the
+
+------YOUR RESULTS ARE
+Search: the
+Name: [ips]
+Location: Berlin-altglienicke, Germany
+Date: 06-10-2019
+------------------------------
+Search: the
+Name: Tipitina's Uptown
+Location: New Orleans, United States
+Date: 07-05-2019
+------------------------------
+Search: the
+Name: The Cutting Room
+Location: New York, United States
+Date: 07-27-2019
+------------------------------
+Result: spotify-this-song love
+
+------YOUR RESULTS ARE
+Artist: Juice WRLD
+Song: Robbery
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: Billie Eilish
+Song: i love you
+Album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+Preview: No preview available.
+------------------------------
+Artist: Alessia Cara
+Song: Out Of Love
+Album: The Pains Of Growing
+Preview: No preview available.
+------------------------------
+Artist: XXXTENTACION
+Song: Fuck Love (feat. Trippie Redd)
+Album: 17
+Preview: https://p.scdn.co/mp3-preview/a6bbae399c7e05f8b3987c3e293e544690e796ce?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Juice WRLD
+Song: Make Believe
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: YNW Melly
+Song: 772 Love
+Album: 772 Love
+Preview: https://p.scdn.co/mp3-preview/7612dc3cd3a1ce3e0392b4654563f591ba0a4edd?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Juice WRLD
+Song: Hear Me Calling
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: Juice WRLD
+Song: Fast
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: Halsey
+Song: Bad At Love
+Album: hopeless fountain kingdom (Deluxe)
+Preview: No preview available.
+------------------------------
+Artist: Juice WRLD
+Song: Empty
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: Summer Walker
+Song: Girls Need Love (with Drake) - Remix
+Album: Last Day Of Summer
+Preview: No preview available.
+------------------------------
+Artist: Mario
+Song: Let Me Love You
+Album: Let Me Love You
+Preview: https://p.scdn.co/mp3-preview/cf789f03af0823c236804eac219c0589da733bd3?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Juice WRLD
+Song: Feeling
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: SZA
+Song: Love Galore (feat. Travis Scott)
+Album: Ctrl
+Preview: https://p.scdn.co/mp3-preview/34ee046041c05b75609bd7eec1e97b6c7cb4fe4f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lizzo
+Song: Truth Hurts
+Album: Cuz I Love You (Deluxe)
+Preview: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Brett Eldredge
+Song: Love Someone
+Album: Brett Eldredge
+Preview: https://p.scdn.co/mp3-preview/dabff7da6aa1afb6561972f43a81928fef0d48c9?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lil Peep
+Song: I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy)
+Album: I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy)
+Preview: https://p.scdn.co/mp3-preview/113708d3c1425ae8f04571d103c2b87221305c5a?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: BLACKPINK
+Song: Kill This Love
+Album: KILL THIS LOVE
+Preview: No preview available.
+------------------------------
+Artist: Kendrick Lamar
+Song: LOVE. FEAT. ZACARI.
+Album: DAMN.
+Preview: No preview available.
+------------------------------
+Artist: Khalid
+Song: Love Lies (with Normani)
+Album: Love Lies (with Normani)
+Preview: https://p.scdn.co/mp3-preview/d53d5678b946219bd6df0b3d04ce0b3554f167d4?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Result: movie-this la
+
+------YOUR RESULTS ARE
+Title: La La Land
+Year: 2016
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 91%
+Country: USA, Hong Kong
+Language: English
+Plot: While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.
+Actors: Ryan Gosling, Emma Stone, Amiée Conn, Terry Walters
+------------------------------
+Result: spotify-this-song bad
+
+------YOUR RESULTS ARE
+Artist: Billie Eilish
+Song: bad guy
+Album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+Preview: No preview available.
+------------------------------
+Artist: Khalid
+Song: My Bad
+Album: My Bad
+Preview: https://p.scdn.co/mp3-preview/ca9b72f2d3b9fc284eb7f2e85774160b6cf13e68?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Ariana Grande
+Song: bad idea
+Album: thank u, next
+Preview: No preview available.
+------------------------------
+Artist: Khalid
+Song: Bad Luck
+Album: Free Spirit
+Preview: https://p.scdn.co/mp3-preview/4529fe31aba1a9be0ba1e199ebd78f3d961103db?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Khalid
+Song: My Bad
+Album: Free Spirit
+Preview: https://p.scdn.co/mp3-preview/b2c9885510866bb90db32c9e39e0bc6415ebe83f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Imagine Dragons
+Song: Bad Liar
+Album: Origins (Deluxe)
+Preview: No preview available.
+------------------------------
+Artist: Halsey
+Song: Bad At Love
+Album: hopeless fountain kingdom (Deluxe)
+Preview: No preview available.
+------------------------------
+Artist: NAV
+Song: Price On My Head (feat. The Weeknd)
+Album: Bad Habits (Deluxe)
+Preview: No preview available.
+------------------------------
+Artist: Cardi B
+Song: I Like It
+Album: Invasion of Privacy
+Preview: https://p.scdn.co/mp3-preview/0f8734f51bb0a419959fdad3a0852621f9e6bc89?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: XXXTENTACION
+Song: BAD!
+Album: SKINS
+Preview: https://p.scdn.co/mp3-preview/83d6b6585c891a5e19680d3419279e8b7fa2d157?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lil Skies
+Song: Bad Girls (feat. Gucci Mane)
+Album: Shelby
+Preview: https://p.scdn.co/mp3-preview/7cbee269b493818c6c63885e0bef800911d1021f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Migos
+Song: Bad and Boujee (feat. Lil Uzi Vert)
+Album: Culture
+Preview: https://p.scdn.co/mp3-preview/7692f502539573458844535e54f247643d2f7157?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: NAV
+Song: Tap (feat. Meek Mill)
+Album: Bad Habits (Deluxe)
+Preview: No preview available.
+------------------------------
+Artist: AJR
+Song: 100 Bad Days
+Album: 100 Bad Days
+Preview: https://p.scdn.co/mp3-preview/25ec3568d3a1e741d0fa3d9c9cb539349a5c923b?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Bad Bunny
+Song: NI BIEN NI MAL
+Album: X 100PRE
+Preview: https://p.scdn.co/mp3-preview/abbc9158084a2f500659728596c4e32251bd3d70?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Five Finger Death Punch
+Song: Bad Company
+Album: War Is the Answer
+Preview: https://p.scdn.co/mp3-preview/c5f003381fb9810398a39b8146632fd98f24b41a?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Bad Bunny
+Song: Si Estuviésemos Juntos
+Album: X 100PRE
+Preview: https://p.scdn.co/mp3-preview/340f2b16c8f2e94de4f3892e19a9b336573552db?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: XXXTENTACION
+Song: BAD!
+Album: BAD!
+Preview: https://p.scdn.co/mp3-preview/83d6b6585c891a5e19680d3419279e8b7fa2d157?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Bad Bunny
+Song: MIA (feat. Drake)
+Album: MIA (feat. Drake)
+Preview: https://p.scdn.co/mp3-preview/1aa25af8a24b4c54dad8958fe3478b78ce5088bb?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Meek Mill
+Song: Going Bad (feat. Drake)
+Album: Championships
+Preview: https://p.scdn.co/mp3-preview/29e19c68dd853994221a90103db28427f1185e33?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Result: spotify-this-song love
+
+------YOUR RESULTS ARE
+Artist: Juice WRLD
+Song: Robbery
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: Billie Eilish
+Song: i love you
+Album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+Preview: No preview available.
+------------------------------
+Artist: Khalid
+Song: Love Lies (with Normani)
+Album: Love Lies (with Normani)
+Preview: https://p.scdn.co/mp3-preview/d53d5678b946219bd6df0b3d04ce0b3554f167d4?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Alessia Cara
+Song: Out Of Love
+Album: The Pains Of Growing
+Preview: No preview available.
+------------------------------
+Artist: BLACKPINK
+Song: Kill This Love
+Album: KILL THIS LOVE
+Preview: No preview available.
+------------------------------
+Artist: XXXTENTACION
+Song: Fuck Love (feat. Trippie Redd)
+Album: 17
+Preview: https://p.scdn.co/mp3-preview/a6bbae399c7e05f8b3987c3e293e544690e796ce?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Kendrick Lamar
+Song: LOVE. FEAT. ZACARI.
+Album: DAMN.
+Preview: No preview available.
+------------------------------
+Artist: YNW Melly
+Song: 772 Love
+Album: 772 Love
+Preview: https://p.scdn.co/mp3-preview/7612dc3cd3a1ce3e0392b4654563f591ba0a4edd?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Juice WRLD
+Song: Make Believe
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: Juice WRLD
+Song: Empty
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: Summer Walker
+Song: Girls Need Love (with Drake) - Remix
+Album: Last Day Of Summer
+Preview: No preview available.
+------------------------------
+Artist: Mario
+Song: Let Me Love You
+Album: Let Me Love You
+Preview: https://p.scdn.co/mp3-preview/cf789f03af0823c236804eac219c0589da733bd3?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Juice WRLD
+Song: Feeling
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: SZA
+Song: Love Galore (feat. Travis Scott)
+Album: Ctrl
+Preview: https://p.scdn.co/mp3-preview/34ee046041c05b75609bd7eec1e97b6c7cb4fe4f?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lizzo
+Song: Truth Hurts
+Album: Cuz I Love You (Deluxe)
+Preview: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Brett Eldredge
+Song: Love Someone
+Album: Brett Eldredge
+Preview: https://p.scdn.co/mp3-preview/dabff7da6aa1afb6561972f43a81928fef0d48c9?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Lil Peep
+Song: I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy)
+Album: I've Been Waiting (w/ ILoveMakonnen & Fall Out Boy)
+Preview: https://p.scdn.co/mp3-preview/113708d3c1425ae8f04571d103c2b87221305c5a?cid=a9f80cd21d274302aae5cc83f9de3472
+------------------------------
+Artist: Halsey
+Song: Bad At Love
+Album: hopeless fountain kingdom (Deluxe)
+Preview: No preview available.
+------------------------------
+Artist: Juice WRLD
+Song: Hear Me Calling
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
+Artist: Juice WRLD
+Song: Fast
+Album: Death Race For Love
+Preview: No preview available.
+------------------------------
