@@ -26,7 +26,9 @@ do-what-it-says - Reads from random.txt and gets the command and the value and e
 
 # Working Proof
 Spotify this song command
-<a href="/gif/-yGmf88" title=""><img src="https://i.makeagif.com/media/5-13-2019/yGmf88.gif" alt="" style="max-width:100%"></a>
+
+<a href="/gif/-yGmf88" title="Spotify this song">
+  <img src="https://i.makeagif.com/media/5-13-2019/yGmf88.gif" alt="" style="max-width:100%"></a>
 <div style="font-size:20px;"><a href="/" title=""></a></div>
 
 
