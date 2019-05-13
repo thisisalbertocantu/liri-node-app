@@ -31,4 +31,9 @@ Spotify this song command
   <img src="https://i.makeagif.com/media/5-13-2019/yGmf88.gif" alt="" style="max-width:100%"></a>
 <div style="font-size:20px;"><a href="/" title=""></a></div>
 
+This command will show the following information about the song in your terminal/bash window
+* Artist(s)
+* The song's name
+* A preview link of the song from Spotify
+* The album that the song is from
 
