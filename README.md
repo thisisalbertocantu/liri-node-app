@@ -39,7 +39,7 @@ This command will show the following information about the song in your terminal
 
 ### Movie-this command
 
-<a href="/gif/-aX0dx4" title=""><img src="https://i.makeagif.com/media/5-13-2019/aX0dx4.gif" alt=""></a><div style="font-size:11px;"><a href="/" title=""></a></div>
+<a href="/gif/-aX0dx4" title=""><img src="https://i.makeagif.com/media/5-13-2019/aX0dx4.gif" alt="" style="width:500px; height:275px;"></a><div style="font-size:11px;"><a href="/" title=""></a></div>
 
 This will output the following information to your terminal/bash window:
   * Title of the movie.
