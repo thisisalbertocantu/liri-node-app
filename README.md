@@ -25,7 +25,7 @@ do-what-it-says - Reads from random.txt and gets the command and the value and e
 * [Moment](https://www.npmjs.com/package/moment)
 
 # Working Proof
-Spotify-this-song command
+### Spotify-this-song command
 
 <a href="/gif/-yGmf88" title="Spotify this song">
   <img src="https://i.makeagif.com/media/5-13-2019/yGmf88.gif" alt="" style="max-width:100%"></a>
@@ -37,7 +37,7 @@ This command will show the following information about the song in your terminal
 * A preview link of the song from Spotify
 * The album that the song is from
 
-Movie-this command
+### Movie-this command
 
 <a href="/gif/-aX0dx4" title=""><img src="https://i.makeagif.com/media/5-13-2019/aX0dx4.gif" alt=""></a><div style="font-size:11px;"><a href="/" title=""></a></div>
 
@@ -51,7 +51,7 @@ This will output the following information to your terminal/bash window:
   * Plot of the movie.
   * Actors in the movie.
   
-Concert-this command
+### Concert-this command
 
 <a href="/gif/-z60tc5" title=""><img src="https://i.makeagif.com/media/5-13-2019/z60tc5.gif" alt=""></a><div style="font-size:11px;"><a href="/" title=""></a></div>
 
@@ -61,9 +61,9 @@ This will search the Bands in Town Artist Events API ("https://rest.bandsintown.
 * Venue location
 * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-do-what-it-says command
+### do-what-it-says command
 
-
+<a href="/gif/-vsRcOB" title=""><img src="https://i.makeagif.com/media/5-13-2019/vsRcOB.gif" alt=""></a><div style="font-size:11px;"><a href="/" title=""></a></div>
 
 Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
