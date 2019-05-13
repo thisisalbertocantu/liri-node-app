@@ -17,27 +17,27 @@ var argument1 = process.argv[2];
 var argument2 = process.argv[3];
 
 /*---------------------------------------------------*/
-/*	CODE FUNCTIONALITY
+/*	      CODE FUNCTIONALITY
 /*---------------------------------------------------*/
 
-processCommand(argument1, argument2);
+chooseCommand(argument1, argument2);
 
-function processCommand(commandToExecute, valueToExecute) {
-    var executed = commandToExecute + " " + valueToExecute + "\n";
-    appendFile("log.txt", "Command executed: " + executed + "\n------YOUR RESULTS ARE\n");
-    switch (commandToExecute) {
+function chooseCommand(first, valueToDisplay) {
+    var result = first + " " + valueToDisplay + "\n";
+    appendFile("log.txt", "Result: " + result + "\n------YOUR RESULTS ARE\n");
+    switch (first) {
         case "concert-this":
-            concertInformation(valueToExecute);
+            concertInformation(valueToDisplay);
             break;
         case "spotify-this-song":
             var song = process.argv.slice(3).join(" ").toLowerCase();
             if (song === "") {
                 song === "Umbrella";
             }
-            spotifyThisSong(valueToExecute);
+            spotifyThisSong(valueToDisplay);
             break;
         case "movie-this":
-            movie(valueToExecute);
+            movie(valueToDisplay);
             break;
         case "do-what-it-says":
             readFile("random.txt");
@@ -180,7 +180,7 @@ function readFile(filename) {
         }
 
         var dataArr = data.split(",");
-        processCommand(dataArr[0], dataArr[1]);
+        chooseCommand(dataArr[0], dataArr[1]);
 
     })
 }
